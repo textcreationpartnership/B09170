@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full description of the manner of executing the sentence upon Titus Oats for perjury, as it was awarded at the Kings-Bench-Bar at Westminster, May the 16th. 1685.  As follows.  To be divested of his canonical habit for ever; to wear a paper on his fore-head, declaring his horrid perjuries; to stand in the pillory on Monday at Westminster Hall-Gate; on Tuesday at the Royal-Exchange; on Wednesday to be whipt from Ald Gate to New-Gate by the common hung-man; on Fryday from New-Gate to Tyburn; and to stand in the pillory also every 24th. of April at Tyburn; every 9th. of August at Westminster, 10th of August at Charing Cross, 11th of August at Temple-Bar; and every 2d of September at the Royal-Exchange; being fined one thousand marks for each perjury, and to suffer imprisonment during life.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09170</idno>
+            <idno type="STC">Wing F2344</idno>
+            <idno type="STC">ESTC R224430</idno>
+            <idno type="EEBO-CITATION">64551282</idno>
+            <idno type="OCLC">ocm 64551282</idno>
+            <idno type="VID">184582</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09170)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184582)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2867:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full description of the manner of executing the sentence upon Titus Oats for perjury, as it was awarded at the Kings-Bench-Bar at Westminster, May the 16th. 1685.  As follows.  To be divested of his canonical habit for ever; to wear a paper on his fore-head, declaring his horrid perjuries; to stand in the pillory on Monday at Westminster Hall-Gate; on Tuesday at the Royal-Exchange; on Wednesday to be whipt from Ald Gate to New-Gate by the common hung-man; on Fryday from New-Gate to Tyburn; and to stand in the pillory also every 24th. of April at Tyburn; every 9th. of August at Westminster, 10th of August at Charing Cross, 11th of August at Temple-Bar; and every 2d of September at the Royal-Exchange; being fined one thousand marks for each perjury, and to suffer imprisonment during life.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Graves,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705 --  Trial, litigation, etc.</term>
+               <term>Trials (Perjury) --  England --  Early works to 1800.</term>
+               <term>Perjury --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184582:1" rendition="simple:additions"/>
+            <head>A Full Deſcription of The Manner of Executing the Sentence upon <hi>Titus Oats</hi> FOR <hi>Perjury.</hi>
+            </head>
+            <argument>
+               <p>As it was Awarded at the <hi>Kings-Bench-Bar</hi> at <hi>Weſtminiſter, May</hi> the <hi>16th.</hi> 1685. as follows. To be diveſted of his Canonical Habit for ever; to wear a Paper on his Fore head, declaring his Horrid Perjuries; to ſtand in the Pillory of <hi>Monday</hi> at <hi>Westminster</hi> Hall-Gate; on <hi>Tueſday</hi> at the <hi>Royal-Exchange;</hi> on <hi>Wedneſday</hi> to be Whipt from <hi>Ald gate</hi> to <hi>New-gate</hi> by the common Hang-man; on <hi>Fryday</hi> from <hi>New-gate</hi> to <hi>Tyburn;</hi> and to ſtand in the Pillory alſo every <hi>24th.</hi> of <hi>April</hi> at <hi>Tyburn;</hi> every <hi>9th.</hi> of <hi>Auguſt</hi> at <hi>Westminster, 10th</hi> of <hi>Au<g ref="char:EOLhyphen"/>gust</hi> at <hi>Charing Croſs, 11th</hi> of <hi>Auguſt</hi> at <hi>Temple-Bar;</hi> and every <hi>2d</hi> of <hi>September</hi> at the <hi>Royal-Exchange;</hi> being Fined <hi>One Thouſand</hi> Marks for each Perjury, and to ſuffer Impriſonment during Life.</p>
+               <p>
+                  <figure>
+                     <figDesc>a series of numbered scenes from the punishment of Titus Oats</figDesc>
+                     <head>The Explanation of the Figures.</head>
+                     <p>1 <hi>In</hi> Weſtminſter-Hall <hi>with a Paper on his Fore-head of his Crime. 2. Stripped of his Canonical Habit. 3. Standing in the Pillory. 4. His Whipping</hi> at the <hi>Carts-Arſe. 5 Tyburn.</hi>
+                     </p>
+                  </figure>
+               </p>
+            </argument>
+            <lg>
+               <l>
+                  <seg rend="decorInit">H</seg>Ere Gentle Reader, thou mayſt caſt thy Eye,</l>
+               <l>And ſee the Due Reward of <hi>Perjury.</hi>
+               </l>
+               <l>
+                  <hi>Perjury!</hi> of that black Dye, that diſmal Hue,</l>
+               <l>Which none but <hi>Oats,</hi> &amp; his Infernal Crew</l>
+               <l>Cou'd ere have Impudence enough to Frame,</l>
+               <l>Three whole deluded Kingdoms to Inflame.</l>
+               <l>The Bloud of Murder'd Innocents to ſhed,</l>
+               <l>And pull down Vengeance on his Guilty Head.</l>
+               <l>A Viler Maſs of Villanous Shams and Lyes,</l>
+               <l>Impoſture, Cheat, Deluſion, Forgeries,</l>
+               <l>Not all Hells Imps could e're together twiſt:</l>
+               <l>Nor Blacker Lips the Holy <hi>BIBLE</hi> Kiſs't.</l>
+               <l>Whole Deluges of Blood cou'd ſcarce aſſwage</l>
+               <l>The Hunger of his All-Devouring Rage;</l>
+               <l>So Keen his Spight, that nothing Great or Good</l>
+               <l>From his Deſtroying <hi>Oaths</hi> protected ſtood;</l>
+               <l>The ſhining Vertues of our Gracious <hi>KING</hi>
+               </l>
+               <l>Could not eſcape his Venoms poyſon'd ſting.</l>
+               <l>The <hi>Perjur'd Slave</hi> (void of all Grace and Shame)</l>
+               <l>Durſt even profane the Mighty <hi>YORKS</hi> bright Name.</l>
+               <l>Great <hi>YORK,</hi> to his Eternal Glory due,</l>
+               <l>Trueſt of <hi>Friends,</hi> and Faithfull'ſt <hi>Brother</hi> too.</l>
+               <l>Whom now Juſt Heaven t' his Right-ful Diadem Brings</l>
+               <l>The Beſt of Subjects Crown'd the Beſt of <hi>KINGS:</hi>
+               </l>
+               <l>
+                  <hi>Nay,</hi> the <hi>Black Gaul</hi> of his polluted Tongue</l>
+               <l>Durſt even the Royal Spotleſs <hi>CATHERINE</hi> Wrong;</l>
+               <l>The Sacred Partner of Great <hi>CHARLES</hi> his Bed;</l>
+               <l>A purer Saint a Life on Earth n'ere lead,</l>
+               <l>Since the Bleſt <hi>MARYES</hi> Glorious Race was run,</l>
+               <l>The Maiden-Mother t'an Immortal Son:</l>
+               <l>Her to his Plott the <hi>Impious Slave</hi> durſt bring,</l>
+               <l>As Poyſoner to her beſt Loved LORD, AND KING.</l>
+               <l>A Lye ſo Rank, ſo Execrably Baſe,</l>
+               <l>Would raiſe a Bluſh even in an Aethiops Face.</l>
+               <l>Yet this Bright Saint the <hi>Traytor</hi> durſt bring,</l>
+               <l>And never Tremble at the Blaſphemy.</l>
+               <l>But now his <hi>Damn' o Deſignes</hi> are all Unhing'd,</l>
+               <l>And Guiltleſs Blood will be at laſt Reveng'd.</l>
+               <l>And as a Pennance for his Crying Sin,</l>
+               <l>His diſrobed Gown, does the firſt Scene begin,</l>
+               <l>Too long a cover to th' foul Fiend within:</l>
+               <l>Whilſt o're his Brow, like Murdering <hi>Cain</hi>'s old Brand,</l>
+               <l>In Capital Characters his <hi>Treaſons</hi> ſtand,</l>
+               <l>T' Expoſe the Peſt and Monſter of the Land.</l>
+               <l>Then to the <hi>Pillory</hi> his Front of Braſs,</l>
+               <l>And Face of Steel in ſolemn Tryumph paſs.</l>
+               <l>Exalted here to all the Gazing Crowd</l>
+               <l>(No Shame too Publick, and no Scorn too Loud:)</l>
+               <l>His advanc'd <hi>Head,</hi> and his noos'd <hi>Neck</hi> we ſee;</l>
+               <l>A <hi>Neck</hi> would even Diſgrace the <hi>Tyburn</hi> Tree.</l>
+               <l>Then up towards <hi>Paddington</hi> behold him Trot,</l>
+               <l>His <hi>Shoulders</hi> laid as naked as his Plot.</l>
+               <l>To the <hi>Carts-Tayl</hi> our little <hi>Titus</hi> Tyed,</l>
+               <l>Whilſt Brisk <hi>Jack K<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tch</hi> beſcowers his <hi>Swearing</hi> Hyde;</l>
+               <l>And the kind Laſh does his Jirkt <hi>Bones</hi> Cajole,</l>
+               <l>Not half ſo Tough as his more Harden'd Soul,</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Graves,</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
